@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: order
-          image: batchusivaji/demo:dev_2
+          image: batchusivaji/kubernetes:dev_2
           ports:
             - containerPort: 80
           resources:
