@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: order
-          image: batchusivaji/kubernetes:v1.5
+          image: batchusivaji/argocd:v1.5
           ports:
             - containerPort: 80
           resources:
