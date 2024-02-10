@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: order
-          image: batchusivaji/nagababu:v_9
+          image: batchusivaji/nagababu:v_10
           ports:
             - containerPort: 80
           resources:
